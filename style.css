@@ -1,0 +1,32 @@
+.body {
+    background-color: rgb(36, 36, 36);
+}
+.primary1 {
+    border: 2px solid green;
+    width: 250px;
+    height: 240px;
+}
+.text1 {
+color: green;
+font-size: 35px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.img1 {
+    width: 150px;
+    border-radius: 80px;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px solid black;
+}
+.primary2 {
+    border: 1px solid red;
+    color: white;
+    font-size: 16px;
+    width: 300px;
+    line-height: 35px;
+    height: 300px;
+}
+.text3 {
+    color: red;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
